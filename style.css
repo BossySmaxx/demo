@@ -1,0 +1,38 @@
+button:hover {
+    transition: 0.2s;
+    background-color: #319795;
+    opacity: 1;
+}
+
+hr {
+    width: 850px;
+    border-color: #319795;
+}
+
+.btn1 {
+    background-color: #319795;
+    transition: 0.2s;
+}
+
+.btn1:hover {
+    background-color: #00BC8C;
+    color: white;
+}
+
+.box {
+    transition: 0.2s ease-in-out;
+}
+
+.box:hover {
+    cursor: pointer;
+    border-color: #319795;
+}
+
+.maps {
+    border-radius: 30px;
+}
+
+.test-head {
+    color: white;
+    text-align: center;
+}
